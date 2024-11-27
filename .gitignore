@@ -75,3 +75,5 @@ DerivedDataCache/*
 /Plugins/UnrealAutoMod/Resources/UnrealAutoMod/logs
 /Plugins/UnrealAutoMod/Resources/UnrealAutoMod/working_dir
 /Plugins/UnrealAutoMod/Resources/UModel
+/Plugins/UnrealAutoMod/Resources/UnrealAutoMod/scripts
+/Plugins/UnrealAutoMod/Resources/UnrealAutoMod/dist
